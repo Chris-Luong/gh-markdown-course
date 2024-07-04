@@ -24,3 +24,27 @@ string code = "block"
 <img src="http://octodex.github.com/images/yaktocat.png" alt="Image of Yaktocat" width="200" height="200" />
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+## Table
+
+[Github Microsoft course Link](https://learn.microsoft.com/en-us/collections/o1njfe825p602p)
+
+First|Second
+-|-
+1|2
+3|4
+
+1. Numbered
+2. List
+3. Here
+  4. No indent in Github editor
+
+<br />
+Here is a<br />line break
+<br />
+
+- Unordered
+- list
+- here
+  - can indent
+ 
