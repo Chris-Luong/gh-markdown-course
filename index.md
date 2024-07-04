@@ -2,9 +2,18 @@
 
 ###### This is a H6
 
+\_This is all \*\*plain\*\* text\_. Because the "\" cancels things like \*asterisk\*
+
 ***Italic Bold***
 
 > quote
+
+#### Task list
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+- [ ] More
 
 ```python
 string code = "block"
